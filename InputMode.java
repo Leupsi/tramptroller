@@ -1,0 +1,3 @@
+enum InputMode {
+  KINECT, KEYBOARD
+}
